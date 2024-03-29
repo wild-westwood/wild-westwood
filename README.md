@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wild-westwood
 - 👀 I’m interested in ... creating new UX/UI and dynamic user experiences with the latest tech.
 - 
-- 🌱 I’m currently learning ...Git, Github, Python, Anaconda, Hugging-Face, Node.js.
+- 🌱 I’m currently learning ...WebGL,Git, Github, Python, Anaconda, Hugging-Face, Node.js.
 - 💞️ I’m looking to collaborate on ... All the above
 - 📫 How to reach me ...dan@wildwestwood.net
 - 😄 Pronouns: ...
