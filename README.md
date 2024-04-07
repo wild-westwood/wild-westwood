@@ -4,7 +4,7 @@
 - 🌱 I’m currently working in ...WebGL,Python, Hugging-Face, Node.js.
 - 💞️ I’m looking to collaborate on ... All the above
 - 📫 How to reach me ...dan@wildwestwood.net
-- he/him
+
 - ⚡ Fun fact: ...I'm old!er. IT better be fun, or else!
 
 <!---
